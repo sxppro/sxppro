@@ -20,3 +20,5 @@ Here are some ideas to get you started:
 💬 Ask me about anime, shows, games, urban exploration, anything going around the world right now 😀
 
 💡 Exploring design, user interfaces and experiences
+
+🌎 Check out my website at: https://soppro.dev
