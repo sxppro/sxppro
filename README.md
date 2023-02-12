@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+🛠 Currently working on full-stack web development (React/Next, Vue/Nuxt w/ various backend integrations)
+
+💬 Ask me about anime, shows, games, urban exploration, anything going around the world right now 😀
+
+💡 Exploring design, user interfaces and experiences
