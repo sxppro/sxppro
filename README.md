@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 
 💡 Exploring design, user interfaces and experiences
 
-🌎 Check out my website at: https://soppro.dev
+🌎 Check out my website at: https://soppro.dev (I also have an alpha site under development: https://alpha.soppro.dev/)
