@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🛠 I like web development across the stack (React/Next, Vue/Nuxt w/ various backend integrations)
+🛠 I like web development across the stack
 
 🥰 I love design and anything user interface or user experience related
 
