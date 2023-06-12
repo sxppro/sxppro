@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there! 👋
 
 <!--
 **sxppro/sxppro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,10 +15,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🛠 Currently working on full-stack web development (React/Next, Vue/Nuxt w/ various backend integrations)
+🛠 I like web development across the stack (React/Next, Vue/Nuxt w/ various backend integrations)
 
-💬 Ask me about anime, shows, games, urban exploration, anything going around the world right now 😀
+🥰 I love design and anything user interface or user experience related
 
-💡 Exploring design, user interfaces and experiences
+💬 Talk to me about anime, games, urban exploration and anything else going around the world right now 😀
 
-🌎 Check out my website at: https://soppro.dev (I also have an alpha site under development: https://alpha.soppro.dev/)
+🌎 [site](https://soppro.dev) · [alpha](https://alpha.soppro.dev/)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://www.soppro.dev/name-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://www.soppro.dev/name-light.png">
+  <img alt="Shows the name Josh written like a signature" src="https://www.soppro.dev/name-light.png" width="144" height="96">
+</picture>
