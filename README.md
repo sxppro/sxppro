@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🪄 I enjoy web development across the stack
+🪄 I enjoy web development — both the good-looking parts, but also the messier work to get a good-looking part actually do something 🙂
 
 🥰 I love design and anything user interface or user experience related 
 
