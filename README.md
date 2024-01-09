@@ -15,13 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🪄 I enjoy web development — both the good-looking parts and also the messier work to get the good-looking parts to actually do something 🙂
+🪄 I enjoy web development — both the good-looking parts and the work to get good-looking parts to do something useful 🙂
 
-🥰 I love design and anything user interface or user experience related 
+🥰 The intersection of software, design and creativity is my passion
 
-💬 Talk to me about anime, games, urban exploration and anything else going around the world right now 😀
+💬 Talk to me about anime, games, anything else going around the world right now 😀
 
-🌎 [site](https://soppro.dev) · [alpha](https://alpha.soppro.dev/)
+🌎 [site](https://soppro.dev)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://cdn.soppro.dev/name-dark.png">
